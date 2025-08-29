@@ -4,7 +4,7 @@
 🔭 Currently working on: **ApnaMall - Flutter E-Commerce App**  
 🌱 Currently learning: **Backend Integration & Firebase**  
 💬 Ask me about: **Flutter, Dart, BLoC, REST API, Firebase, SQLite**  
-📫 Reach me at: **ravipatel1999@gmail.com**  
+📫 Reach me at: **Kumaravu510@gmail.com**  
 😄 Portfolio: [ravipatelfolio.netlify.app](https://ravipatelfolio.netlify.app)  
 ⚡ Fun fact: I turn **chai ☕ into clean code!**
 
