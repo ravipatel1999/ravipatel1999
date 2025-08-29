@@ -5,7 +5,6 @@
 🌱 Currently learning: **Backend Integration & Firebase**  
 💬 Ask me about: **Flutter, Dart, BLoC, REST API, Firebase, SQLite**  
 📫 Reach me at: **Kumaravu510@gmail.com**  
-😄 Portfolio: [ravipatelfolio.netlify.app](https://ravipatelfolio.netlify.app)  
 ⚡ Fun fact: I turn **chai ☕ into clean code!**
 
 ---
