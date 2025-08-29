@@ -17,19 +17,18 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ravipatel1999)
 
 ---
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/>
-</p>
+<div style="background-color: black; padding: 10px; border-radius: 8px;">
+  <p align="left">
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/postman.png" alt="Postman" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode" width="40" height="40"/>
+  </p>
+</div>
 
 ---
 
